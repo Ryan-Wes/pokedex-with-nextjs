@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* Certifique-se de que não há regras de CSS aqui que possam estar afetando o Container */
